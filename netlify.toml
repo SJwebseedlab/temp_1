@@ -1,3 +1,7 @@
 [build]
   command = "npm run build"
-  publish = "build"
+  publish = "dist"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+  pinned_version = "none"
