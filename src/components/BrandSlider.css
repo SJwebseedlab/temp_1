@@ -1,0 +1,16 @@
+@keyframes scroll {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.brand-slider-track {
+  animation: scroll 40s linear infinite;
+}
+
+.brand-slider-track:hover {
+  animation-play-state: paused;
+}

@@ -1,0 +1,9 @@
+# 📁 interior-site-starter/.gitignore
+node_modules/
+dist/
+build/
+.env
+.DS_Storenode_modules/
+build/
+dist/
+.env
