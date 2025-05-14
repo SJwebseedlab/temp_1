@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
-import Services from "./pages/Services";
-import Portfolio from "./pages/Portfolio";
-import Contact from "./pages/Contact";
+import Home from "./views/Home";
+import Services from "./views/Services";
+import Portfolio from "./views/Portfolio";
+import Contact from "./views/Contact";
 import Header from "./layout/Header";
 import Footer from "./layout/Footer";
 import ScrollToTop from "./components/ScrollToTop";
