@@ -4,4 +4,4 @@
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
-  enabled = false
+  pinned_version = "none"
